@@ -1,5 +1,5 @@
 # Weather-app
-Open the folder after cloning the project
+Open the folder after cloning the project in master branch
 write "flutter run" in terminal 
 done 
 
